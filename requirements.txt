@@ -1,0 +1,5 @@
+pytest
+certifi==2019.9.11
+urllib3==1.25.7
+python-consul
+requests==2.22.0

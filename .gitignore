@@ -1,0 +1,14 @@
+# misc
+.idea/
+
+
+# python
+*.pyc
+__pycache__/
+venv/
+.pytest_cache/
+
+.scannerwork/
+
+# misc
+todo.txt
